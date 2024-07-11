@@ -1,0 +1,54 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.map
+*.pdb
+*.ipch
+*.obj
+*.so
+*.idb
+*.to
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore package files
+*.nupkg
+*.snupkg
+
+# Ignore generated code
+*.g.cs
+*.g.i.cs
+*.g.h
+
+# Ignore publish directory
+publish/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore other specific files and directories
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore npm packages
+node_modules/
