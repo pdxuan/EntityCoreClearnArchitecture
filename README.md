@@ -1,0 +1,2 @@
+# EntityCoreClearnArchitecture
+EntityCoreClearnArchitecture
